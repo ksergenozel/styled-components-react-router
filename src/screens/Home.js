@@ -9,7 +9,7 @@ const MainContainer = styled.div`
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: red;
+  background-color: greenyellow;
   @media (max-width: 1000px) and (min-width: 700px) {
     background-color: blue;
   }
